@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
 
-name: Devops CI Pipeline
+name: Devops CI pipeline 
 
 on:
   pull_request:
