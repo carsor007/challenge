@@ -26,6 +26,10 @@ jobs:
     - name: Run ESLint
       run: npm run lint
 
+
+    - name: Install prettier
+      run: npm install -g prettier
+
     - name: Run prettier
       run: npm run prettier
   
